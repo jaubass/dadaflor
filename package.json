@@ -1,0 +1,36 @@
+{
+  "name": "boilerplate-wp24",
+  "version": "1.0.0",
+  "description": "Boilerplate for Wordpress workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^22.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.0.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.4.36",
+    "sass": "^1.72.0"
+  },
+  "browserslist": [
+    "last 2 version",
+    "> 1%"
+  ],
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "scrollmagic": "^2.0.8"
+  }
+}

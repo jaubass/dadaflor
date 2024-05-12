@@ -1,0 +1,17 @@
+.dada-title {
+    font-family: "Inter", sans-serif;
+    font-size: 80px;
+    color: black;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.letter {
+    display: inline-block;
+    transition: font-variation-settings 0.5s;
+}
+
+.dada-title:hover {
+    font-weight: 900;
+}
+
